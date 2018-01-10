@@ -1,0 +1,3 @@
+For v1.2 - 
+- Change to SMD components
+- Integrate with full board

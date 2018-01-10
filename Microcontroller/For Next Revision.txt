@@ -1,0 +1,5 @@
+For v1.2 - 
+- Change to SMD components
+- Check that silkscreen is on board entirely
+- Verify USB hardware requirements
+- Integrate with full board
