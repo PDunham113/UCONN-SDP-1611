@@ -2,6 +2,11 @@
 
 ## Summary
 
+* #### Doc
+  Contains various documentation and presentation on the project as a whole. This
+  has NOT been curated in the slightest. Frankly, the whole project needs a
+  little organization.
+
 * #### LCD Daughterboard
   Contains EAGLE files for a graphic LCD and directional pad control. While
   ultimately scrapped, the LCD is electrically functional.
